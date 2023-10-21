@@ -1,0 +1,42 @@
+/* Header Styles */
+.full-width-header {
+  background-color: #13304e;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Form Styles */
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+/* Employee List Styles */
+.card-header {
+  background-color: #13304e;
+  color: white;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+/* Icon Styles */
+i {
+  cursor: pointer;
+}
+
+/* Additional Styles */
+.container {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+body {
+  background-color: #13304e;
+}
